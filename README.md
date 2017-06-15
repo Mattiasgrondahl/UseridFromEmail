@@ -1,5 +1,5 @@
 # Email2Userid - This is a work in progress and some stuff might not work.
-*Email2userid.ps1 will take a list of email and convert them to userid's according to a namestandard.
+Email2userid.ps1 will take a list of email and convert them to userid's according to a namestandard.
 
 ## Getting Started
 1. Make sure you are on a Win7-10 machine (32 or 64bit). 
